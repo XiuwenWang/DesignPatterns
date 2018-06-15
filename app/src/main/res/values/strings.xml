@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DesignPatterns</string>
+    <string name="observer" translatable="false">观察者模式</string>
+</resources>
